@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState, useRef, useMemo } from "react";
-import FallingLamps from "@/app/components/FallingLamps";
+// import FallingLamps from "@/app/components/FallingLamps";
 import CoupleMessage from "@/app/components/CoupleMessage";
 import ThingsToKnow from "@/app/components/ThingsToKnow";
 import MarriageCountdown from "@/app/components/MarriageCountdown";
@@ -129,7 +129,7 @@ export default function Home() {
       <div
         className="
     bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1772002859/mobile_demo_starlight_vreqi5.webp')]
-    md:bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1772002667/Group_2147225117_jxglzv.webp')]
+    md:bg-[url('/assets/harpreet_bg.webp')]
     bg-cover
     bg-no-repeat
     bg-top
