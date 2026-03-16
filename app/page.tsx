@@ -314,7 +314,7 @@ export default function Home() {
       </div>
 
 
-      <div className="hidden md:block bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1772003496/Group_2147225119_ju1wz0.webp')] bg-cover bg-no-repeat">
+      <div className="hidden md:block bg-[url('/assets/meet_bride.webp')] bg-cover bg-no-repeat">
         <div className="lg:h-325 md:h-180">
           <h1 className="lg:text-3xl text-xl text-center text-[#E1EF1E] lg:pt-64 pt-12 font-cormorant">
             MEET THE
@@ -343,7 +343,7 @@ export default function Home() {
       <CoupleMessage />
       <ThingsToKnow />
 
-      <div className="hidden md:block bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1772000322/Group_2147225113_jdprxd.webp')] bg-cover bg-no-repeat">
+      <div className="hidden md:block bg-[url('/assets/thing.jpg')] bg-cover bg-no-repeat">
         <div className="lg:h-325 md:h-180">
         </div>
       </div>
