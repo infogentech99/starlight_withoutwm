@@ -128,7 +128,7 @@ export default function Home() {
       {/* hero section */}
       <div
         className="
-    bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1772002859/mobile_demo_starlight_vreqi5.webp')]
+    bg-[url('/assets/harpreet_mobile_bg.webp')]
     md:bg-[url('/assets/harpreet_bg.webp')]
     bg-cover
     bg-no-repeat
@@ -328,7 +328,7 @@ export default function Home() {
 
       {/* mobile visible section */}
 
-      <div className="md:hidden bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1772003284/b_flt7d4.webp')] bg-cover bg-no-repeat">
+      <div className="md:hidden bg-[url('/assets/couple.jpg')] bg-cover bg-no-repeat">
         <div className="h-220">
           <h1 className="text-xl text-center text-[#E1EF1E] lg:pt-48 pt-28 font-cormorant">
             MEET THE
@@ -349,7 +349,7 @@ export default function Home() {
       </div>
 
       {/* mobile visible section */}
-      <div className="md:hidden bg-[url('https://res.cloudinary.com/dx2di0mvx/image/upload/v1772001730/bridewithmoon_mobile_demo_k1wzl1.png')] bg-cover bg-no-repeat">
+      <div className="md:hidden bg-[url('/assets/bride_mobile.webp')] bg-cover bg-no-repeat">
         <div className="h-210">
         </div>
       </div>
